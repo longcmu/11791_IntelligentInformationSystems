@@ -1,3 +1,3 @@
-# hw4_Online_Perceptron
+# p2_Online_Perceptron
 
 See report.pdf
