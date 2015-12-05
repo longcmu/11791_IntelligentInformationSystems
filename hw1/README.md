@@ -1,4 +1,3 @@
-# hw1-longh
-Homework 1 for Design and Engineering of Intelligent Information Systems (11-791)
+# hw1 UML Design and Named Entity Recognition Implementation with UIMA SDK
 
-UML Design and Named Entity Recognition Implementation with UIMA SDK
+See writeup.pdf
