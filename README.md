@@ -1,4 +1,4 @@
-# 11791_IntelligentInformationSystems
+# 11791_SoftwareEngineeringforInformationSystems
 
 This course teaches the fundamentals of system engineering (requirements, analysis, design, implementation) and project management (teaming, planning, scheduling, tracking). The course is taught from the perspective of object-oriented systems and agile methods, and students learn how to use UML and design patterns to model software. The course makes use of Craig Larman's excellent textbook, Applying UML and Patterns : An Introduction to Object-Oriented Analysis and Design and Iterative Development.
 
